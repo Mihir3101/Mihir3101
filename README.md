@@ -8,17 +8,11 @@
 - ⚡ Fun fact: Like to write in different handwriting and trying mirror writing ✍
 - 📸 I had interest in listening music, dancing, photography, basically art is the thing which attracts me.
 
-<h2>Reach out to me</h2>
+### 🔥 &nbsp; My Stats :
 
-<p>
-<a href="https://github.com/Mihir3101" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/mihirpm/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</p> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mihir3101&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### 😇 Reach out to me @ [![Linkedin Badge](https://img.shields.io/badge/-mihirpm-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mihirpm) [![GitHub Badge](https://img.shields.io/badge/Mihir3101-black?style=flat&logo=github&logoColor=white)](https://github.com/Mihir3101)
 <!--
 **Mihir3101/Mihir3101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
