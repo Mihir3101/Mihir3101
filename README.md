@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, welcome! </h1>
-<h2> I'm Mihir! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> I'm Mihir!</h2>
 
 
 - 🎓 Currently pursuing bachelor in Information Technology from  National Institute Of Technology Karnataka, Surathkal
