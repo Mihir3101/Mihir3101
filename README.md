@@ -1,5 +1,14 @@
 <h1 align="center"> Hi, welcome! </h1>
+
+---
+
+![Banner](https://github.com/Mihir3101/Mihir3101/blob/main/banner.png "a title")
+
+---
+
 <h2> I'm Mihir!</h2>
+
+
 
 
 - 🎓 Currently pursuing bachelor in Information Technology from  National Institute Of Technology Karnataka, Surathkal
