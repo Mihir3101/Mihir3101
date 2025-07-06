@@ -10,13 +10,13 @@
 
 
 
-
-- 🎓 Currently pursuing bachelor in Information Technology from  National Institute Of Technology Karnataka, Surathkal
-- 📈 Technology Analyst Intern [@MorganStanley](https://www.morganstanley.com/) (May, 2022- July, 2022)
+- 🏢 Currently working as a Technology Associate/SDE-II [@MorganStanley](https://www.morganstanley.com/) 
+- 🎓 I did my bachelor in Information Technology from  National Institute Of Technology Karnataka, Surathkal (Aug, 2019 - May, 2023)
+- 📈 Previsouly, Interned [@MorganStanley](https://www.morganstanley.com/) as a Technology Analyst Intern (May, 2022- July, 2022)
 - ⚡ Fun fact: Like to write in different handwriting and trying mirror writing ✍
 - 📸 I had interest in listening music, dancing, photography, basically art is the thing which attracts me.
 
-<!-- - 🌱 I’m currently learning ReactJS, GANS, & Blockchain -->
+<!-- - 🌱 I’m currently learning  GANS, & Blockchain -->
 
 
 ### 🔥 &nbsp; My Stats :
