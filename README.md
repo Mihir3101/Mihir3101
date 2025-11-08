@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, welcome! </h1>
+<h1 align="center"> Hey, welcome! </h1>
 
 ---
 
@@ -8,16 +8,14 @@
 
 <h2> I'm Mihir!</h2>
 
-
-
-- 🏢 Currently working as a Technology Associate/SDE-II [@MorganStanley](https://www.morganstanley.com/) 
+- 🏢 Currently working as a Technology Associate(SDE-II) [@MorganStanley](https://www.morganstanley.com/) 
 - 🎓 I did my bachelor in Information Technology from  National Institute Of Technology Karnataka, Surathkal (Aug, 2019 - May, 2023)
 - 📈 Previsouly, Interned [@MorganStanley](https://www.morganstanley.com/) as a Technology Analyst Intern (May, 2022- July, 2022)
-- ⚡ Fun fact: Like to write in different handwriting and trying mirror writing ✍
-- 📸 I had interest in listening music, dancing, photography, basically art is the thing which attracts me.
+- ⚡ Fun fact: I enjoy experimenting with different handwriting styles. Currently, I'm trying out mirror writing and calligraphy ✍
+- 🤔 I'm inquisitive about latest & coolest techs.
+- 🎨 I love listening to music (and swaying along to it), and drawing — basically, art is what truly attracts me.
 
 <!-- - 🌱 I’m currently learning  GANS, & Blockchain -->
-
 
 ### 🔥 &nbsp; My Stats :
 
